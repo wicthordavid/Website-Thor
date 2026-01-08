@@ -26,6 +26,11 @@ section {
     max-width: 1200px;
 }
 
+.reviews .box-container .box .instagram_clientes h3:hover {
+    color: var(--main-color);
+    text-decoration: underline;
+}
+
 header {
     position: fixed; /* pra ficar fixo no topo*/
     top: 0;
